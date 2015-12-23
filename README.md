@@ -1,5 +1,7 @@
 # SurvivalGame
 # [Download - Below](#)
+
+[![Join the chat at https://gitter.im/Driesboy/SurvivalGame](https://badges.gitter.im/Driesboy/SurvivalGame.svg)](https://gitter.im/Driesboy/SurvivalGame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  oops no dowload links
 # if this bug is fixed: new upload
 # Could not execute task pocketmine\scheduler\CallbackTask: Undefined property: Andre\SurvivalGame\Main::$level
